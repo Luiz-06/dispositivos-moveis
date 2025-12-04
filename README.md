@@ -7,7 +7,7 @@ Atualmente, o projeto conta com um sistema de autenticação simulado (Mock), li
 
 Clique na imagem abaixo para assistir ao vídeo de demonstração do aplicativo:
 
-[![Clique aqui para ver a demonstração](https://www.youtube.com/watch?v=gyPUDGjE5Wo)]
+[![Assista ao vídeo Animals Hotel](https://img.youtube.com/vi/gyPUDGjE5Wo/0.jpg)](https://www.youtube.com/watch?v=gyPUDGjE5Wo)
 
 ## 📱 Funcionalidades
 

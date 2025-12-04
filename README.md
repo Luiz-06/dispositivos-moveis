@@ -3,6 +3,12 @@
 O **Animals Hotel** é um aplicativo desenvolvido em **Flutter** que permite aos donos de animais de estimação encontrar e reservar hospedagens (hotéis e cuidadores) para seus pets.
 Atualmente, o projeto conta com um sistema de autenticação simulado (Mock), listagem de hotéis e visualização de detalhes com integração ao Google Maps.
 
+## 📹 Demonstração
+
+Clique na imagem abaixo para assistir ao vídeo de demonstração do aplicativo:
+
+[![Assista ao vídeo Animals Hotel](https://img.youtube.com/vi/gyPUDGjE5Wo/0.jpg)](https://www.youtube.com/watch?v=gyPUDGjE5Wo)
+
 ## 📱 Funcionalidades
 
 * **Login & Cadastro:** Interface completa de autenticação com validação de dados (simulada localmente para testes rápidos).
@@ -86,8 +92,8 @@ O código principal está na pasta `lib/`:
 ## 📝 Notas de Desenvolvimento
 
 **Mock de Dados:** As credenciais de teste padrão são:
-* **Email:** `teste1`
-* **Senha:** `1`
+* **Email:** `teste1@teste1.com`
+* **Senha:** `123456`
 
 **Persistência:** Como usamos um Mock em memória, se você reiniciar o app (Hot Restart), os novos usuários cadastrados serão apagados, voltando apenas ao usuário de teste padrão.
 

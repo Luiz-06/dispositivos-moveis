@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:google_maps_flutter/google_maps_flutter.dart'; // Importação oficial do pacote de mapas
+import 'package:google_maps_flutter/google_maps_flutter.dart'; 
 
 class HotelDetailsView extends StatefulWidget {
   final Map<String, dynamic> hotelData;

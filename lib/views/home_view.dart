@@ -24,17 +24,7 @@ class HomeView extends StatelessWidget {
       'description': 'Especializado em felinos, com arranhadores em todos os quartos.',
       'lat': -22.9671, 
       'lng': -43.1789,
-    },
-    {
-      'name': 'Dog House Hotel',
-      'address': 'Jardim Botânico - Curitiba, PR',
-      'price': 'R\$ 95,00',
-      'rating': 4.2,
-      'image': 'https://images.unsplash.com/photo-1596272875729-ed2c21ebbbda?w=500',
-      'description': 'Ambiente familiar e aconchegante para seu melhor amigo.',
-      'lat': -25.4428, 
-      'lng': -49.2396,
-    },
+    }
   ];
 
   @override

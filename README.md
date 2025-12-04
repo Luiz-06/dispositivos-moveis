@@ -28,8 +28,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 ### 1. Obter o Código
 Baixe o arquivo .zip deste projeto ou clone o repositório se estiver usando Git:
 
-    git clone https://github.com/seu-usuario/animals-hotel.git
-    cd animals-hotel
+    git clone https://github.com/Luiz-06/dispositivos-moveis
 
 ### 2. Instalar Dependências
 No terminal, dentro da pasta do projeto, execute:

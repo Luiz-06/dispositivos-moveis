@@ -86,8 +86,8 @@ O código principal está na pasta `lib/`:
 ## 📝 Notas de Desenvolvimento
 
 **Mock de Dados:** As credenciais de teste padrão são:
-* **Email:** `teste1@teste1.com`
-* **Senha:** `123456`
+* **Email:** `teste1`
+* **Senha:** `1`
 
 **Persistência:** Como usamos um Mock em memória, se você reiniciar o app (Hot Restart), os novos usuários cadastrados serão apagados, voltando apenas ao usuário de teste padrão.
 
